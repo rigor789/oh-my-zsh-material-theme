@@ -2,7 +2,7 @@
 Material theme for Oh My Zsh http://ohmyz.sh/
 
 # Screenshot
-![Material theme screenshot](screenshot)
+![Material theme screenshot](https://raw.githubusercontent.com/rigor789/oh-my-zsh-material-theme/master/screenshot.png)
 
 # Installing
  1. Download `material.zsh-theme` and put it in `~/.oh-my-zsh/custom/themes`
@@ -25,5 +25,3 @@ I will gladly accept improvements.
 
 # License
 The theme is released under the [MIT License](https://github.com/rigor789/oh-my-zsh-material-theme/blob/master/LICENSE).
-
-[screenshot]: https://github.com/rigor789/oh-my-zsh-material-theme/blob/master/screenshot.png "Material Theme"
