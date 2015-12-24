@@ -26,4 +26,4 @@ I will gladly accept improvements.
 # License
 The theme is released under the [MIT License](https://github.com/rigor789/oh-my-zsh-material-theme/blob/master/LICENSE).
 
-[screenshot]: https://github.com/rigor789/oh-my-zsh-material-theme/blob/master/screenshot.png
+[screenshot]: https://github.com/rigor789/oh-my-zsh-material-theme/blob/master/screenshot.png "Material Theme"
